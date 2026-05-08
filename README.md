@@ -191,10 +191,6 @@ jupyter notebook Ecommerce_sustainable_development_analysis.ipynb
 
 ---
 
-## 🙌 Acknowledgements
 
-Project guided by **[Kashish Agrawal](https://www.linkedin.com/in/analyst-kashishagrawal/)** as part of a data analytics mentorship program.
-
----
 
 *Built with 🐍 Python | Analysis performed on Amazon India e-commerce order data (Mar–Jun 2022)*
